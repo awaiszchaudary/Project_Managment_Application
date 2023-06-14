@@ -1,0 +1,122 @@
+
+.container_todo{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+    width: 25%;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 30px 10px 8px rgb(244, 126, 126);
+    
+    
+}
+
+.container_inprogress{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+    width: 25%;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 30px 10px 8px rgb(118, 243, 118);
+    
+    
+}
+
+.container_complete{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+    width: 25%;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 30px 10px 8px rgb(104, 104, 243);
+    
+    
+}
+
+.list_container{
+    box-shadow: 5px 5px 8px grey;
+    padding-top: 20px;
+}
+
+.li_todo{
+    
+    list-style: none;
+    padding: 10px;
+    border-radius: 20px;
+    width: 70%;
+    background-color: rgb(244, 126, 126);
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+
+.li_inprogress{
+    
+    list-style: none;
+    padding: 10px;
+    border-radius: 20px;
+    width: 70%;
+    background-color: rgb(118, 243, 118);
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+
+.li_complete{
+    
+    list-style: none;
+    padding: 10px;
+    border-radius: 20px;
+    width: 70%;
+    background-color: rgb(104, 104, 243);
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+
+
+.ul{
+    padding-bottom: 20px;
+}
+
+
+
+.main_heading{
+    text-align: center;
+}
+
+.button_container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid orange;
+    margin-bottom: 20px;
+    
+}
+
+.button_edit{
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid orange;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    
+}
+
